@@ -26,6 +26,6 @@
 	<a href="Agradecimiento.php"><button type="submit" class="btn btn-success">Pagar</button></a>
 
 </center>
-</body>
+</body> 
 </html>
 
